@@ -31,7 +31,7 @@ user = get_object_or_none(User,username="andrewsxx")
 
 #### Getting User Object from User Model with an available username
 
-user = get_object_or_none(User,username="andrewsxx")
+user = get_object_or_none(User,username="andrewsxx1234")
 
 //=> None
 
