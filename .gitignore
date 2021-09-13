@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.pyc
+.idea
+.coverage
+.vagrant
+.DS_Store
+**/*.pyc
+
